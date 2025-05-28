@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Jupyter](https://img.shields.io/badge/Notebook-Available-yellow)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Active-informational)
+![Stars](https://img.shields.io/github/stars/Member09/scaling-laws-reproduction?style=social)
+
 # scaling-laws-reproduction
 This repository contains reproducible experiments based on seminal scaling laws papers in deep learning, including Kaplan er al. (2020) and Hoffmann et al. (2022). It focuses on recreating core plots using synthetic and real data to explore how model performance scales with model size, compute and dataset size. 
 
